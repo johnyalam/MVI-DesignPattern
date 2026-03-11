@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "MVI-DesignPattern"
 include(":app")
+include(":baselibrary")
